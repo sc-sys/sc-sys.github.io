@@ -4,8 +4,8 @@ description: "セキュアシステムのためのソフトウェア、アーキ
 date: Sat Oct 28 16:42:57 JST 2023
 ---
 #theme: jekyll-theme-slate
-#theme: jekyll-theme-minimal
-theme: minima
+theme: jekyll-theme-minimal
+#theme: minima
 #theme: minimal-mistakes-jekyll
 
 #plugins:
