@@ -5,6 +5,7 @@ Secure Computer System Home Page
 <H2>
 Under Construction
 </H2>
+<p>jekyll build</p>
+<p>jekyll serve</p>
 <p>bundle install</p>
-<p>jeykill serve</p>
 
