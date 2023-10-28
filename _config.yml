@@ -3,8 +3,8 @@ title: Workshop on  Software, Architecture, and Theory for Secure Systems
 description: "セキュアシステムのためのソフトウェア、アーキテクチャ、理論に関するワークショップ"
 date: Sat Oct 28 16:42:57 JST 2023
 ---
-theme: jekyll-theme-slate
-#theme: jekyll-theme-minimal
+#theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 #theme: minimal-mistakes-jekyll
 #theme: minima
 
