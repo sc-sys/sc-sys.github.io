@@ -1,5 +1,4 @@
 title: Workshop on  Software, Architecture, and Theory for Secure Systems
-# Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
