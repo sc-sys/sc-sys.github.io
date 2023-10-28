@@ -1,10 +1,29 @@
 title: Workshop on  Software, Architecture, and Theory for Secure Systems
 description: "セキュアシステムのためのソフトウェア、アーキテクチャ、理論に関するワークショップ"
 date: Sat Oct 28 16:42:57 JST 2023
-#theme: jekyll-theme-slate
 theme: jekyll-theme-minimal
+
+# See default.html
+github:
+  owner_name: 
+  is_project_page: false
+  is_user_page: false
+announce: true
+announce_url: https://sc-sys.github.io/
+#
+message: 第一回ワークショップのご案内は11月10日頃を予定しています
+#announce_url: https://shorturl.at/bhqt6
+#message: 第一回ワークショップ申込み<BR>(締め切り:2023/12/10)
+
+#
+#show_downloads: true
+#github:
+#  zip_url: https://www.nii.ac.jp
+#  tar_url: https://www.nii.ac.jp
+#  repository_url: https://www.nii.ac.jp
+
+#theme: jekyll-theme-slate
 #theme: minima
 #theme: minimal-mistakes-jekyll
-
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
