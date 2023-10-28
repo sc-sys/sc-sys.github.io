@@ -5,3 +5,6 @@ Secure Computer System Home Page
 <H2>
 Under Construction
 </H2>
+<p>bundle install</p>
+<p>jeykill serve</p>
+
