@@ -1,4 +1,8 @@
 title: Workshop on  Software, Architecture, and Theory for Secure Systems
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
+#theme: jekyll-theme-minimal
+#theme: minima
+
+
 #plugins:
 #  - jekyll-feed
