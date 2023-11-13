@@ -40,9 +40,9 @@ layout: my_default
     <UL style="line-height:1.1">
 	<DL>
 		<DT>第1回：TEEの概要 RISC-V PMPを中心に</DT>
-		<DL>日時：12月18日(月)17:00〜20:00</DL>
-		<DL>開催場所：<A href="https://www.nii.ac.jp/about/access/">国立情報学研究所</A> 1903,1904</DL>
-		<DL>定員：25名</DL>
+		<DT>日時：12月18日(月)17:00〜20:00</DT>
+		<DT>開催場所：<A href="https://www.nii.ac.jp/about/access/">国立情報学研究所</A> 1903,1904</DT>
+		<DT>定員：25名</DT>
 	</DL>
       <LI> 第2回(1月中旬) ： RISC-Vの最近動向 WorldGuard, IOMMUを中心に</LI>
       <LI> 第3回(2月下旬) ： Virtualization 最近動向 RISC-V Virtualization, Intel TDX, Arm CCA</LI>
