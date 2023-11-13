@@ -31,19 +31,19 @@ layout: my_default
 
     <H3><p style="line-height:0.3">形式</p></H3>
     <UL style="line-height:1.1">
-      <LI> 当初は勉強会的に参加者の中から有志が発表し全員で議論</LI>
-      <LI> 原則</LI>
+      <LI> 当初は勉強会的に参加者の中から有志が発表し全員で議論。皆さんとの議論を大事にしたいので原則現地参加をお願いします。</LI>
+      <LI> 企画・運営していく若手ボランティアも募集しています。第1回ワークショップ参加登録フォームにご記入ください。</LI>
     </UL>
 
     <br>
     <H3><p style="line-height:0.3">開催日程</p></H3>
     <UL style="line-height:1.1">
-      <LI> 第1回：TEEの概要 RISC-V PMPを中心に<BR>
-           <DL>
-		<DT>日時：12月18日(月)17:00〜20:00</DT>
-		<DT>開催場所：<A href="https://www.nii.ac.jp/about/access/">国立情報学研究所</A> 1903,1904</DT>
-	   </DL>
-      </LI>
+	<DL>
+		<DT>第1回：TEEの概要 RISC-V PMPを中心に</DT>
+		<DL>日時：12月18日(月)17:00〜20:00</DL>
+		<DL>開催場所：<A href="https://www.nii.ac.jp/about/access/">国立情報学研究所</A> 1903,1904</DL>
+		<DL>定員：25名</DL>
+	</DL>
       <LI> 第2回(1月中旬) ： RISC-Vの最近動向 WorldGuard, IOMMUを中心に</LI>
       <LI> 第3回(2月下旬) ： Virtualization 最近動向 RISC-V Virtualization, Intel TDX, Arm CCA</LI>
       <LI> 第4回(3月上旬) ：形式検証入門</LI>
