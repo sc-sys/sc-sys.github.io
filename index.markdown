@@ -42,7 +42,7 @@ layout: my_default
 	<DL>
 		<DT>第1回：TEEの概要 RISC-V PMPを中心に</DT>
 		<DT>日時：2023年12月18日(月)17:00〜19:00 (会場は20:00まで)</DT>
-		<DT>開催場所：<A href="https://www.nii.ac.jp/about/access/" target=_new>国立情報学研究所</A> 1903,1904</DT>
+		<DT>開催場所：<A href="https://www.nii.ac.jp/about/access/" target=_new>国立情報学研究所</A> 1902,1903</DT>
 		<DT>定員：25名</DT>
 	</DL>
       <LI> 第2回(1月中旬) ： RISC-Vの最近動向 WorldGuard, IOMMUを中心に</LI>
