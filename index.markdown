@@ -42,7 +42,7 @@ layout: my_default
 	<DL>
 		<DT>第1回：TEEの概要 RISC-V PMPを中心に</DT>
 		<DT>日時：2023年12月18日(月)17:00〜19:00 (会場は20:00まで)</DT>
-		<DT>開催場所：<A href="https://www.u-tokyo.ac.jp/campusmap/cam01_06_06_j.html">東京大学理学部7号館(会場を変更しました)</A></DT>
+		<DT>開催場所：<A href="https://www.u-tokyo.ac.jp/campusmap/cam01_06_06_j.html">東京大学理学部7号館007号室(地下)(会場を変更しました)</A></DT>
 		<DT>定員：50名</DT>
 	</DL>
       <LI> 第2回(1月中旬) ： RISC-Vの最近動向 WorldGuard, IOMMUを中心に</LI>
