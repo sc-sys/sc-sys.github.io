@@ -39,16 +39,36 @@ layout: my_default
     <br>
     <H3><p style="line-height:0.3">開催日程</p></H3>
     <UL style="line-height:1.1">
+      <LI>
+	<DL>
+		<DT>第2回：RISC-Vの最近動向 WorldGuard, IOMMUを中心に</DT>
+		<DT>日時：2024年1月29日(月)13:30〜15:30</DT>
+		<DT>開催場所：早稲田大学</A></DT>
+		<DT>定員：50名</DT>
+	</DL>
+      </LI>
+      <LI>
+	<DL>
+		<DT>第3回：Virtualization 最近動向 RISC-V Virtualization, Intel TDX, Arm CCA</DT>
+		<DT>日時：2024年2月1日(木)16:00〜18:00</DT>
+		<DT>開催場所：国立情報学研究所 1208-1210会議室</A></DT>
+		<DT>定員：50名</DT>
+	</DL>
+      </LI>
+      <LI> 第4回(3月上旬) ：形式検証入門</LI>
+      <LI> 第5回(3月中旬) ：メモリ暗号化・整合性検証の最近動向</LI>
+      <LI> 以降のテーマは参加者と共に決めていきます</LI>
+    </UL>
+
+    <hr style="height:3px">
+    <H4><p style="padding-bottom:0px">終了したワークショップ</p></H4>
+    <UL style="line-height:1.1">
+    <LI>
 	<DL>
 		<DT>第1回：TEEの概要 RISC-V PMPを中心に</DT>
 		<DT>日時：2023年12月18日(月)17:00〜19:00 (会場は20:00まで)</DT>
 		<DT>開催場所：<A href="https://www.u-tokyo.ac.jp/campusmap/cam01_06_06_j.html">東京大学理学部7号館007号室(地下)(会場を変更しました)</A></DT>
 		<DT>定員：50名</DT>
 	</DL>
-      <LI> 第2回(1月中旬) ： RISC-Vの最近動向 WorldGuard, IOMMUを中心に</LI>
-      <LI> 第3回(2月下旬) ： Virtualization 最近動向 RISC-V Virtualization, Intel TDX, Arm CCA</LI>
-      <LI> 第4回(3月上旬) ：形式検証入門</LI>
-      <LI> 第5回(3月中旬) ：メモリ暗号化・整合性検証の最近動向</LI>
-      <LI> 以降のテーマは参加者と共に決めていきます</LI>
+    </LI>
     </UL>
-

@@ -11,8 +11,9 @@ github:
 announce: true
 #
 announce_url: https://sc-sys.github.io/
-message: 第1回ワークショップ申込み<BR>(締め切りました)
+message: 第2回ワークショップ申込み<BR>(2024年1月4日頃オープン)
 ##announce_url: https://shorturl.at/bhqt6
+#message: 第1回ワークショップ申込み<BR>(締め切りました)
 #message: 第1回ワークショップ申込み<BR>(締め切り:2023/12/15正午あるいは定員になり次第)
 #
 #announce_url: https://sc-sys.github.io/
