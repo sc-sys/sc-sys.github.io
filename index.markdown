@@ -43,7 +43,7 @@ layout: my_default
 	<DL>
 		<DT>第2回：RISC-Vの最近動向 WorldGuard, IOMMUを中心に</DT>
 		<DT>日時：2024年1月29日(月)13:30〜15:30</DT>
-		<DT>開催場所：早稲田大学</A></DT>
+		<DT>開催場所：早稲田大学</DT>
 		<DT>定員：50名</DT>
 	</DL>
       </LI>
@@ -51,7 +51,7 @@ layout: my_default
 	<DL>
 		<DT>第3回：Virtualization 最近動向 RISC-V Virtualization, Intel TDX, Arm CCA</DT>
 		<DT>日時：2024年2月1日(木)16:00〜18:00</DT>
-		<DT>開催場所：国立情報学研究所 1208-1210会議室</A></DT>
+		<DT>開催場所：国立情報学研究所 1208-1210会議室</DT>
 		<DT>定員：50名</DT>
 	</DL>
       </LI>
