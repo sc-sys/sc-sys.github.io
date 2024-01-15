@@ -35,6 +35,11 @@
 	<p class="view"><a href="{{ site.announce_url }}">{{site.message}}</a></p>
 	{% endif %}
 
+	{% if site.announce2 %}
+	<p class="view"><a href="{{ site.announce_url2 }}">{{site.message2}}</a></p>
+	{% endif %}
+
+
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
