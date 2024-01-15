@@ -45,6 +45,7 @@ layout: my_default
 		<DT>日時：2024年1月29日(月)13:30〜15:30</DT>
 		<DT>共催：早稲田大学グリーン・コンピューティング・システム研究機構</DT>
 		<DT>開催場所：<A href="https://www.waseda.jp/inst/gcs/access/" target="_new">早稲田大学グリーン・コンピューティング・システム研究開発センター (40号館) 1階プレゼンテーションルーム</A></DT>
+		<DT>講師：木村啓二（早大）</DT>
 		<DT>定員：60名</DT>
 	</DL>
       </LI>
@@ -53,6 +54,7 @@ layout: my_default
 		<DT>第3回：Virtualization 最近動向 RISC-V Virtualization, Intel TDX, Arm CCA</DT>
 		<DT>日時：2024年2月1日(木)16:00〜18:00</DT>
 		<DT>開催場所：国立情報学研究所 1208-1210会議室</DT>
+		<DT>講師：木村啓二（早大）</DT>
 		<DT>定員：60名</DT>
 	</DL>
       </LI>
