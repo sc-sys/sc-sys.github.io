@@ -43,6 +43,7 @@ layout: my_default
 	<DL>
 		<DT>第2回：RISC-Vの最近動向 WorldGuard, IOMMUを中心に</DT>
 		<DT>日時：2024年1月29日(月)13:30〜15:30</DT>
+		<DT>共催：早稲田大学グリーン・コンピューティング・システム研究機構</DT>
 		<DT>開催場所：<A href="https://www.waseda.jp/inst/gcs/access/" target="_new">早稲田大学グリーン・コンピューティング・システム研究開発センター (40号館) 1階プレゼンテーションルーム</A></DT>
 		<DT>定員：60名</DT>
 	</DL>
