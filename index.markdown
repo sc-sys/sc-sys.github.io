@@ -44,6 +44,8 @@ layout: my_default
 		<DT>第3回：Virtualization 最近動向 RISC-V Virtualization, Intel TDX, Arm CCA</DT>
 		<DT>日時：2024年2月1日(木)16:00〜18:00</DT>
 		<DT>開催場所：国立情報学研究所 1208-1210会議室</DT>
+		<DT>　　<A HREF="https://www.nii.ac.jp/about/access/">東京都千代田区一ツ橋2-1-2 学術総合センター12階</A>
+  </DT>
 		<DT>講師：河野健二 （慶大）</DT>
 		<DT>定員：60名</DT>
 	</DL>
