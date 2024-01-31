@@ -8,13 +8,13 @@ github:
   owner_name: 
   is_project_page: false
   is_user_page: false
-announce: true
+#announce: true
 #
 ##announce_url: https://sc-sys.github.io/
 message: 第2回ワークショップ申込み<BR>(締め切り：2024/1/27正午あるいは定員になり次第)
 announce_url: https://forms.gle/WPVQ8qfyFVucKKuQ9
 ##
-announce2: true
+#announce2: true
 message2: 第3回ワークショップ申込み<BR>(締め切り：2024/1/30正午あるいは定員になり次第)
 announce_url2: https://forms.gle/fcZUF1gZssvqwDb39
 ##
