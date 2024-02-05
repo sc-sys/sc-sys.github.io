@@ -39,17 +39,6 @@ layout: my_default
     <br>
     <H3><p style="line-height:0.3">開催日程</p></H3>
     <UL style="line-height:1.1">
-      <LI>
-	<DL>
-		<DT>第3回：Virtualization 最近動向 RISC-V Virtualization, Intel TDX, Arm CCA</DT>
-		<DT>日時：2024年2月1日(木)16:00〜18:00</DT>
-		<DT>開催場所：国立情報学研究所 1208-1210会議室</DT>
-		<DT>　　<A HREF="https://www.nii.ac.jp/about/access/">東京都千代田区一ツ橋2-1-2 学術総合センター12階</A>
-  </DT>
-		<DT>講師：河野健二 （慶大）</DT>
-		<DT>定員：60名</DT>
-	</DL>
-      </LI>
       <LI> 第4回(3月上旬) ：形式検証入門</LI>
       <LI> 第5回(3月中旬) ：メモリ暗号化・整合性検証の最近動向</LI>
       <LI> 以降のテーマは参加者と共に決めていきます</LI>
@@ -58,6 +47,17 @@ layout: my_default
     <hr style="height:3px">
     <H4><p style="padding-bottom:0px">終了したワークショップ</p></H4>
     <UL style="line-height:1.1">
+    <LI>
+ 	<DL>
+		<DT>第3回：Virtualization 最近動向 RISC-V Virtualization, Intel TDX, Arm CCA</DT>
+		<DT>日時：2024年2月1日(木)16:00〜18:00</DT>
+		<DT>開催場所：国立情報学研究所 1208-1210会議室</DT>
+		<DT>　　<A HREF="https://www.nii.ac.jp/about/access/">東京都千代田区一ツ橋2-1-2 学術総合センター12階</A>
+  </DT>
+		<DT>講師：河野健二 （慶大）</DT>
+		<DT>定員：60名</DT>
+	</DL>
+    </LI>
     <LI>
 	<DL>
 		<DT>第2回：RISC-Vの最近動向 WorldGuard, IOMMUを中心に</DT>
