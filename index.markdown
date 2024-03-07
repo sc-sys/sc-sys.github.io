@@ -67,7 +67,7 @@ layout: my_default
     </LI>
     <LI>
 	<DL>
-		<DT>第2回：RISC-Vの最近動向 WorldGuard, IOMMUを中心に</DT>
+		<DT>第2回：<A HREF="/archive/WS20240129_kimura.pdf" target=_blank>RISC-Vの最近動向 WorldGuard, IOMMUを中心に</A></DT>
 		<DT>日時：2024年1月29日(月)13:30〜15:30</DT>
 		<DT>共催：早稲田大学グリーン・コンピューティング・システム研究機構</DT>
 		<DT>開催場所：<A href="https://www.waseda.jp/inst/gcs/access/" target="_new">早稲田大学グリーン・コンピューティング・システム研究開発センター (40号館) 1階プレゼンテーションルーム</A></DT>
@@ -77,7 +77,7 @@ layout: my_default
     </LI>
     <LI>
 	<DL>
-		<DT>第1回：TEEの概要 RISC-V PMPを中心に</DT>
+		<DT>第1回：<A HREF="./archive/WS20231218_suzaki.pdf" target=_blank>TEEの概要 RISC-V PMPを中心に</A></DT>
 		<DT>日時：2023年12月18日(月)17:00〜19:00 (会場は20:00まで)</DT>
 		<DT>開催場所：<A href="https://www.u-tokyo.ac.jp/campusmap/cam01_06_06_j.html">東京大学理学部7号館007号室(地下)(会場を変更しました)</A></DT>
 		<DT>講師：須崎有康（情セ大）</DT>
