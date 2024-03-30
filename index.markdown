@@ -20,7 +20,7 @@ layout: my_default
     <H3><p style="line-height:0.3">Keywords</p></H3>
     <UL style="line-height:1.1">
       <LI>TEE, Confidential Computing, Hypervisor, VM</LI>
-      <LI>Formal Verification, Theorem Prover, SAT/SMT Slover</LI>
+      <LI>Formal Verification, Theorem Prover, SAT/SMT Solver</LI>
       <LI>RISC-V, Linux, Rust, ProVerif, Tamarin</LI>
     </UL>
 
@@ -39,21 +39,37 @@ layout: my_default
     <br>
     <H3><p style="line-height:0.3">開催日程</p></H3>
     <UL style="line-height:1.1">
-      <LI> <DT>第4回&第5回：形式検証入門、メモリ暗号化・整合性検証の最近動向</DT>
-      	   <DT>日時：2024年3月8日(金)15:00〜18:00</DT>
- 	   <DT>共催：早稲田大学グリーン・コンピューティング・システム研究機構</DT>
-	   <DT>開催場所：<A href="https://www.waseda.jp/inst/gcs/access/" target="_new">早稲田大学グリーン・コンピューティング・システム研究開発センター (40号館) 1階プレゼンテーションルーム</A></DT>
-	   <DT>　　　　　リモート参加可能（開催前日にURLは登録者にメールで送付）</DT>
-	   <DT>講師：関山太郎（国立情報学研究所）</DT>
-   	   <DT>　　　高前田伸也（東京大学）</DT>
-	   <DT>定員：60名</DT>
+     <LI> <DT>第6回：Arm TrustZone</DT>
+      	   <DT>日時：2024年5月10日(金)13:00〜18:00</DT>
+	   <DT>　　　データセンター見学：13:00〜15:30</DT>
+	   <DT>　　　　　(企業の方は見学出来ません)</DT>
+   	   <DT>　　　Arm TrustZone講義：15:30〜18:00</DT>
+ 	   <DT>共催：セコム（株）</DT>
+	   <DT>開催場所：<A href="https://www.secom.co.jp/isl/contact/" target="_new">セコムIS研究所</A></DT>
+	   <DT>　　　　　リモート参加可能（開催前日にメールでURLを送付）</DT>
+	   <DT>講師：宮澤慎一（セコム（株））</DT>
+	   <DT>概要：</DT>
+      	   <DT>　　1) ARMとTrustZoneの概要</DT>
+       	   <DT>　　2) Global Platformの概要</DT>
+	   <DT>　　3) OP-TEEの解説</DT>
+	   <DT>　　4) OP-TEEプログラミングハンズオン</DT>
+	   <DT>ハンズオンではQEMUを使います。ノートPCをご持参ください。あらかじめソフトウェアをインストールしておいてください。詳細は追って連絡します</DT>
+	   <DT>定員：100名（見学は30名）</DT>
      </LI>
-      <LI> 以降のテーマは参加者と共に決めていきます</LI>
     </UL>
 
     <hr style="height:3px">
     <H4><p style="padding-bottom:0px">終了したワークショップ</p></H4>
     <UL style="line-height:1.1">
+     <LI> <DT>第4回&第5回：形式検証入門、メモリ暗号化・整合性検証の最近動向</DT>
+      	   <DT>日時：2024年3月8日(金)15:00〜18:00</DT>
+ 	   <DT>共催：早稲田大学グリーン・コンピューティング・システム研究機構</DT>
+	   <DT>開催場所：<A href="https://www.waseda.jp/inst/gcs/access/" target="_new">早稲田大学グリーン・コンピューティング・システム研究開発センター (40号館) 1階プレゼンテーションルーム</A></DT>
+	   <DT>　　　　　リモート参加可能（開催前日にメールでURLを送付）</DT>
+	   <DT>講師：関山太郎（国立情報学研究所）</DT>
+   	   <DT>　　　高前田伸也（東京大学）</DT>
+	   <DT>定員：60名</DT>
+    </LI>
     <LI>
  	<DL>
 		<DT>第3回：Virtualization 最近動向 RISC-V Virtualization, Intel TDX, Arm CCA</DT>
