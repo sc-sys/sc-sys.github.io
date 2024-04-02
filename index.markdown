@@ -41,7 +41,7 @@ layout: my_default
     <UL style="line-height:1.1">
      <LI> <DT>第6回：Arm TrustZone</DT>
       	   <DT>日時：2024年5月10日(金)13:00〜18:00</DT>
-	   <DT>　　　データセンター見学：13:00〜15:30</DT>
+	   <DT>　　　セコムIS研究所とデータセンター見学：13:00〜15:30</DT>
 	   <DT>　　　　　(企業の方は見学出来ません)</DT>
    	   <DT>　　　Arm TrustZone講義：15:30〜18:00</DT>
  	   <DT>共催：セコム（株）</DT>
