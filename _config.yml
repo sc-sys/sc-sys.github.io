@@ -9,8 +9,10 @@ github:
   is_project_page: false
   is_user_page: false
 announce: true
-announce_url: https://forms.gle/mwsSh6hut55noDWLA
-message: 第6回ワークショップ申込み<BR>(締め切り：2024/5/7正午あるいは定員になり次第)
+announce_url: https://sc-sys.github.io/
+message: 第6回ワークショップ申込み<BR>(締め切りました)
+#announce_url: https://forms.gle/mwsSh6hut55noDWLA
+#message: 第6回ワークショップ申込み<BR>(締め切り：2024/5/7正午あるいは定員になり次第)
 #announce_url: https://forms.gle/WN771V2hHtSBRn1y7
 #message: 第4回ワークショップ申込み<BR>(締め切り：2024/3/7正午あるいは定員になり次第)
 #
