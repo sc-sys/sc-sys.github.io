@@ -11,8 +11,8 @@ layout: my_default
     <br>
     <H3><p style="line-height:0.3">世話人</p></H3>
     <UL style="line-height:1.1">
-      <LI>代表：石川裕（NII）</LI>
-      <LI> システムソフトウェア：河野健二 （慶大）、光来健一（九工大）、須崎有康（情セ大）、合田憲人（NII）、竹房あつ子（NII）</LI>
+      <LI>代表：石川裕（NII/ROIS）</LI>
+      <LI> システムソフトウェア：河野健二 （慶大）、光来健一（九工大）、須崎有康（情セ大）、合田憲人（NII/ROIS）、竹房あつ子（NII）</LI>
       <LI> アーキテクチャ：木村啓二（早大）、高前田伸也（東大）、塩谷 亮太（東大）、五島正裕（NII）</LI>
       <LI> 理論：五十嵐淳（京大）、蓮尾一郎（NII）、関山太朗（NII）</LI>
     </UL>
@@ -39,6 +39,25 @@ layout: my_default
     <br>
     <H3><p style="line-height:0.3">開催日程</p></H3>
     <UL style="line-height:1.1">
+     <LI> <DT>第7回：TEE関連研究動向</DT>
+      	   <DT>日時：2024年7月1日(月)14:00〜17:00</DT>
+ 	   <DT>共催：早稲田大学グリーン・コンピューティング・システム研究機構</DT>
+	   <DT>開催場所：<A href="https://www.waseda.jp/inst/gcs/access/" target="_new">早稲田大学グリーン・コンピューティング・システム研究開発センター (40号館) 1階プレゼンテーションルーム</A></DT>
+	   <DT>　　　　　リモート参加可能（開催前日にメールでURLを送付）</DT>
+	   <DT>定員：60名</DT>
+	   <DT>話題：</DT>
+	   <DT>　"CTR: Checkpoint, Transfer, and Restore for Secure Enclaves"</DT>
+	   <DT>　　　Yoshimichi Nakatsuka (ETH Zurich)</DT>
+ 	   <DT>　"OP-TEEの利用事例：OP-TEEを用いたIoTのための安全な階層鍵管理機構"</DT>
+	   <DT>　　　竹房 あつ子 (NII)</DT>
+ 	   <DT>　"TDOS: Trustworthy Heterogeneous Disaggregated Architectures"</DT>
+	   <DT>　　　Atsushi Koshiba (Technical University of Munich)</DT>
+     </LI>
+    </UL>
+
+    <hr style="height:3px">
+    <H4><p style="padding-bottom:0px">終了したワークショップ</p></H4>
+    <UL style="line-height:1.1">
      <LI> <DT>第6回：Arm TrustZone</DT>
       	   <DT>日時：2024年5月10日(金)13:00〜18:00</DT>
 	   <DT>　　　セコムIS研究所とデータセンター見学：13:00〜15:30</DT>
@@ -56,11 +75,6 @@ layout: my_default
 	   <DT>ハンズオンではQEMUを使います。ノートPCをご持参ください。あらかじめソフトウェアをインストールしておいてください。詳細は追って連絡します</DT>
 	   <DT>定員：100名（見学は30名）</DT>
      </LI>
-    </UL>
-
-    <hr style="height:3px">
-    <H4><p style="padding-bottom:0px">終了したワークショップ</p></H4>
-    <UL style="line-height:1.1">
      <LI> <DT>第4回&第5回：形式検証入門、メモリ暗号化・整合性検証の最近動向</DT>
       	   <DT>日時：2024年3月8日(金)15:00〜18:00</DT>
  	   <DT>共催：早稲田大学グリーン・コンピューティング・システム研究機構</DT>
