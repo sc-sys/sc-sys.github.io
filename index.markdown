@@ -48,10 +48,10 @@ layout: my_default
 	   <DT>話題：</DT>
 	   <DT>　"CTR: Checkpoint, Transfer, and Restore for Secure Enclaves"</DT>
 	   <DT>　　　Yoshimichi Nakatsuka (ETH Zurich)</DT>
- 	   <DT>　"OP-TEEの利用事例：OP-TEEを用いたIoTのための安全な階層鍵管理機構"</DT>
-	   <DT>　　　竹房 あつ子 (NII)</DT>
  	   <DT>　"TDOS: Trustworthy Heterogeneous Disaggregated Architectures"</DT>
 	   <DT>　　　Atsushi Koshiba (Technical University of Munich)</DT>
+ 	   <DT>　"OP-TEEの利用事例：OP-TEEを用いたIoTのための安全な階層鍵管理機構"</DT>
+	   <DT>　　　竹房 あつ子 (NII)</DT>
      </LI>
     </UL>
 
