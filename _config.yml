@@ -8,9 +8,9 @@ github:
   owner_name: 
   is_project_page: false
   is_user_page: false
-announce: true
-announce_url: https://forms.gle/G8jYDktBZJRYTnYk7
-message: 第7回ワークショップ申込み<BR>(6月28日（金）17:00)
+#announce: true
+#announce_url: https://forms.gle/G8jYDktBZJRYTnYk7
+#message: 第7回ワークショップ申込み<BR>(6月28日（金）17:00)
 #announce_url: https://forms.gle/mwsSh6hut55noDWLA
 #message: 第6回ワークショップ申込み<BR>(締め切りました)
 #announce_url: https://forms.gle/mwsSh6hut55noDWLA

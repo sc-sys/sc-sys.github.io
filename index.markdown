@@ -39,6 +39,13 @@ layout: my_default
     <br>
     <H3><p style="line-height:0.3">開催日程</p></H3>
     <UL style="line-height:1.1">
+    <LI> <DT>第8回は2024年10月を予定</DT>
+    </LI>
+    </UL>
+
+    <hr style="height:3px">
+    <H4><p style="padding-bottom:0px">終了したワークショップ</p></H4>
+    <UL style="line-height:1.1">
      <LI> <DT>第7回：TEE関連研究動向</DT>
       	   <DT>日時：2024年7月1日(月)14:00〜17:00</DT>
  	   <DT>共催：早稲田大学グリーン・コンピューティング・システム研究機構</DT>
@@ -53,11 +60,6 @@ layout: my_default
  	   <DT>　"OP-TEEの利用事例：OP-TEEを用いたIoTのための安全な階層鍵管理機構"</DT>
 	   <DT>　　　竹房 あつ子 (NII)</DT>
      </LI>
-    </UL>
-
-    <hr style="height:3px">
-    <H4><p style="padding-bottom:0px">終了したワークショップ</p></H4>
-    <UL style="line-height:1.1">
      <LI> <DT>第6回：Arm TrustZone</DT>
       	   <DT>日時：2024年5月10日(金)13:00〜18:00</DT>
 	   <DT>　　　セコムIS研究所とデータセンター見学：13:00〜15:30</DT>
