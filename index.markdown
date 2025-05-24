@@ -39,8 +39,23 @@ layout: my_default
     <br>
     <H3><p style="line-height:0.3">開催日程</p></H3>
     <UL style="line-height:1.1">
-    <LI> <DT>第8回は2024年10月を予定</DT>
-    </LI>
+     <LI>
+       <DT>第8回："Cloud Server Security: From Trusted Execution Environment (TEE) to Fully Homomorphic Encryption (FHE)"</DT>
+       <DT>話者：<A href="https://sites.google.com/view/arpers" target="_new">Yan Solihin</A></DT>
+       <DT>日時：2025年6月3日(火)16:30〜18:30</DT>
+       <DT>開催場所：<A href="https://www.waseda.jp/inst/gcs/access/" target="_new">早稲田大学グリーン・コンピューティング・システム研究開発センター (40号館) 1階プレゼンテーションルーム</A></DT>
+       <!-- <DT>リモート参加可能（開催前日にメールでURLを送付）</DT> -->
+       <DT>
+         <DETAILS>
+           <SUMMARY>概要</SUMMARY>
+           <DIV>
+             In this talk I will discuss the ongoing challenges for ensuring the confidentiality and integrity of computation in the cloud servers.
+             In the first part of the talk, I will discuss the drawbacks of current Trusted Execution Environment (TEE) designs.  TEE protects sensitive applications in the cloud with the minimal trust in the cloud provider. Existing TEEs with integrity protection however lack support for data management primitives, causing data sharing between enclaves either insecure or cumbersome. This paper proposes a new data abstraction for TEEs, data enclave. As a data-centric abstraction, data enclave is decoupled from an enclave’s existence, is equipped with flexible secure permission controls, and crytographically isolated. It eliminates the hurdles for enclaves to cooperate efficiently, and at the same time, enables dynamic shrinking of the height of integrity tree for performance. This paper presents this new abstraction, its properties, and the architecture support. Experiments on synthetic benchmarks and three real-world applications all show that data enclave can help improve the efficiency of enclaves and inter-enclave cooperations significantly while enhancing the security protection.
+             In the second part of the talk, I will discuss our research in Fully Homomorphic Encryption (FHE) verifiability. FHE allows computations to be performed directly on encrypted data without needing to decrypt it first. This “encryption-in-use” feature is crucial for securely outsourcing computations in privacy-sensitive areas such as healthcare and finance. Nevertheless, in the context of FHE-based cloud computing, clients often worry about the integrity and accuracy of the outcomes. This concern arises from the potential for a malicious server or server-side vulnerabilities that could result in tampering with the data, computations, and results.  Ensuring integrity and verifiability with low overhead remains an open problem, as prior attempts have not yet achieved this goal. To tackle this challenge and ensure the verification of FHE’s private computations on encrypted data, we introduce DataSeal, which combines the low overhead of the algorithm-based fault tolerance (ABFT) technique with the confidentiality of FHE, offering high efficiency and verification capability.  Through thorough testing in diverse contexts,  we demonstrate that DataSeal achieves much lower overheads for providing computation verifiability for FHE than other techniques that include MAC, ZKP, and TEE. DataSeal’s space and computation overheads decrease to nearly negligible as the problem size increases.
+           </DIV>
+         </DETAILS>
+       </DT>
+     </LI>
     </UL>
 
     <hr style="height:3px">
