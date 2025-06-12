@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: my_default
 ---
+  <link rel="stylesheet" href="{{ '/assets/css/default.css' | relative_url }}">
   <main class="page-content" aria-label="Content">
     <H3>趣旨</H3>
     <p>
@@ -11,10 +12,9 @@ layout: my_default
     <br>
     <H3><p style="line-height:0.3">世話人</p></H3>
     <UL style="line-height:1.1">
-      <LI>代表：石川裕（NII/ROIS）</LI>
-      <LI> システムソフトウェア：河野健二 （慶大）、光来健一（九工大）、須崎有康（情セ大）、合田憲人（NII/ROIS）、竹房あつ子（NII）</LI>
-      <LI> アーキテクチャ：木村啓二（早大）、高前田伸也（東大）、塩谷 亮太（東大）、五島正裕（NII）</LI>
-      <LI> 理論：五十嵐淳（京大）、蓮尾一郎（NII）、関山太朗（NII）</LI>
+      <LI>関山 太朗（NII／ROIS）</LI>
+      <LI>大畑 幸矢 (ROIS)</LI>
+      <LI>畑 輝史（慶應義塾大学）</LI>
     </UL>
 
     <H3><p style="line-height:0.3">Keywords</p></H3>
@@ -31,15 +31,44 @@ layout: my_default
 
     <H3><p style="line-height:0.3">形式</p></H3>
     <UL style="line-height:1.1">
-      <LI> 当初は勉強会的に参加者の中から有志が発表し全員で議論。皆さんとの議論を大事にしたいので原則現地参加をお願いします。</LI>
+      <LI>当初は勉強会的に参加者の中から有志が発表し全員で議論。皆さんとの議論を大事にしたいので原則現地参加をお願いします。</LI>
       <LI>科研費における若手の定義は学位取得後8年未満の研究者としていますが、この定義にとらわれず、ここでは「若手」とは年齢問わず自らの自由な発想の元、研究・開発している・していきたい方々とします。</LI>
       <LI> 企画・運営していく若手ボランティアも募集しています。第1回ワークショップ参加登録フォームにご記入ください。</LI>
     </UL>
 
     <br>
-    <H3><p style="line-height:0.3">開催日程</p></H3>
-    <UL style="line-height:1.1">
+    <H3><p style="line-height:0.3">今後の開催予定</p></H3>
+    <UL class="workshop-list" style="line-height:1.1">
      <LI>
+       <DT>第9回：理論関連のトピック（具体的な内容は調整中）</DT>
+       <DT>話者：大堀 淳（ROIS／東北大学），他調整中</DT>
+       <DT>日時：2025年8月ごろ</DT>
+       <DT>開催場所：未定</DT>
+     </LI>
+     <LI>
+       <DT>第10回：システムソフトウェア関連のトピック（具体的な内容は調整中）</DT>
+       <DT>話者：光来 健一（九工大），他調整中</DT>
+       <DT>日時：2025年10月ごろ</DT>
+       <DT>開催場所：未定</DT>
+     </LI>
+     <LI>
+       <DT>第11回：ハードウェア関連のトピック（具体的な内容は調整中）</DT>
+       <DT>話者：内山 一秀（ROIS），他調整中</DT>
+       <DT>日時：2025年12月ごろ</DT>
+       <DT>開催場所：未定</DT>
+     </LI>
+     <LI>
+       <DT>第12回：未定</DT>
+       <DT>話者：未定</DT>
+       <DT>日時：2026年3月ごろ</DT>
+       <DT>開催場所：未定</DT>
+     </LI>
+    </UL>
+
+    <hr style="height:3px">
+    <H4><p style="padding-bottom:0px">終了したワークショップ</p></H4>
+    <UL class="workshop-list" style="line-height:1.1">
+     <LI margin-top="1px" margin-bottom="1px">
        <DT>第8回："Cloud Server Security: From Trusted Execution Environment (TEE) to Fully Homomorphic Encryption (FHE)"</DT>
        <DT>話者：<A href="https://sites.google.com/view/arpers" target="_new">Yan Solihin</A></DT>
        <DT>日時：2025年6月3日(火)16:30〜18:30</DT>
@@ -56,11 +85,6 @@ layout: my_default
          </DETAILS>
        </DT>
      </LI>
-    </UL>
-
-    <hr style="height:3px">
-    <H4><p style="padding-bottom:0px">終了したワークショップ</p></H4>
-    <UL style="line-height:1.1">
      <LI> <DT>第7回：TEE関連研究動向</DT>
       	   <DT>日時：2024年7月1日(月)14:00〜17:00</DT>
  	   <DT>共催：早稲田大学グリーン・コンピューティング・システム研究機構</DT>
@@ -131,4 +155,12 @@ layout: my_default
 		<DT>定員：50名</DT>
 	</DL>
     </LI>
+    </UL>
+
+    <hr style="height:3px">
+    <H4><p style="padding-bottom:0px">発起人</p></H4>
+    <UL style="line-height:1.1">
+      <li>代表：石川裕（NII/ROIS）</li>
+      <li> システムソフトウェア：河野健二 （慶大）、光来健一（九工大）、須崎有康（情セ大）、合田憲人（NII/ROIS）、竹房あつ子（NII）</li>
+      <li> アーキテクチャ：木村啓二（早大）、高前田伸也（東大）、塩谷 亮太（東大）、五島正裕（NII）</li>
     </UL>
