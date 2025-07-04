@@ -41,7 +41,7 @@ layout: my_default
     <UL class="workshop-list" style="line-height:1.1">
      <LI>
        <DT>第9回：理論関連のトピック（具体的な内容は調整中）</DT>
-       <DT>話者：大堀 淳（ROIS／東北大学），他調整中</DT>
+       <DT>話者：大堀 淳（ROIS），他調整中</DT>
        <DT>日時：2025年8月ごろ</DT>
        <DT>開催場所：未定</DT>
      </LI>
