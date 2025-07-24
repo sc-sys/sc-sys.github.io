@@ -5,6 +5,31 @@ layout: my_default
 ---
   <link rel="stylesheet" href="{{ '/assets/css/default.css' | relative_url }}">
   <main class="page-content" aria-label="Content">
+
+    <H2><p style="line-height:0.3">講演者募集</p></H2>
+    <DIV style="border-bottom: 1px solid black; width: 100%; margin: 20px auto">
+    <UL style="line-height:1.1">
+      <LI><b>2025年9月1日，東京品川にて開催予定のソフトウェアと形式検証に関するワークショップの講演者を募集しています．</b></LI>
+      <LI>講演トピックにつきましては、ソフトウェアシステムの安全性（特にセキュリティ）に関連する内容であれば、広く歓迎いたします。</LI>
+      <LI>講演を希望される方は <b>8月1日（金）</b> までに，講演者情報，講演タイトル（仮），希望講演時間を sekiyama _at_ nii.ac.jp までご連絡ください．
+          講演時間としては以下の二案がございます．内容に併せてお選びください．
+          <UL>
+            <LI>通常の研究発表：30分</LI>
+            <LI>チュートリアル・分野俯瞰・研究プロジェクトに関する講演など：60分</LI>
+          </UL>
+      </LI>
+      <LI>ご応募多数の場合は運営委員内で協議し，採否を決定いたします．採否は8月4日を目処にご連絡する予定です．</LI>
+      <LI>今後のスケジュール予定は以下の通りです．締切等については柔軟に対応できますのでお気軽にお問い合わせください。
+          <UL>
+            <LI>8/1(金) 申し込み 締切</LI>
+            <LI>8/4(月) 仮プログラム公表</LI>
+            <LI>8/25(月) 正式タイトルと概要 締切</LI>
+            <LI>9/1(月) ワークショップ当日</LI>
+          </UL>
+      </LI>
+    </UL>
+    </DIV>
+
     <H3>趣旨</H3>
     <p>
       FPGAの普及、オープンソースの充実によりRISC-Vに代表されるような計算機システムが容易に作れるようになりました。計算機理論分野では現実社会に応用する研究が活発化しAWSなどでは実システムに供しています。一方で新しい原理を理論研究と共に計算機ハードウェアからソフトウェアのレイヤまで研究・開発するために必要な知識の獲得と議論の場が乏しいと我々は考えています。そこで、若手研究者・技術者の方々が学び議論できる場を設けることにしました。
@@ -36,29 +61,97 @@ layout: my_default
       <LI> 企画・運営していく若手ボランティアも募集しています。第1回ワークショップ参加登録フォームにご記入ください。</LI>
     </UL>
 
+    <H3><p style="line-height:0.3">Slack</p></H3>
+    <DIV>
+      本ワークショップに関するご連絡，講演資料の共有，リモート参加・質疑には Slack を利用します．
+      <A href="https://join.slack.com/t/satss/shared_invite/zt-39t7ge2af-gusWS~jXcL3FlHOkSNNG7A">招待リンク</A>よりご参加ください．
+    </DIV>
+
     <br>
     <H3><p style="line-height:0.3">今後の開催予定</p></H3>
     <UL class="workshop-list" style="line-height:1.1">
      <LI>
-       <DT>第9回：理論関連のトピック（具体的な内容は調整中）</DT>
-       <DT>話者：大堀 淳（ROIS），他調整中</DT>
-       <DT>日時：2025年8月ごろ</DT>
-       <DT>開催場所：未定</DT>
+       <DT>第9回：セキュアシステムソフトウェア</DT>
+       <DT>日時：2025年8月21日15:00〜17:00（開場14:30）</DT>
+       <DT>開催場所：<A href="https://www.hit-u.ac.jp/hall/accessjp.html">一橋講堂 特別会議室101-103</A></DT>
+       <DT>リモート参加：<A href="https://join.slack.com/t/satss/shared_invite/zt-39t7ge2af-gusWS~jXcL3FlHOkSNNG7A">Slack</A>にて連絡</DT>
+       <OL>
+         <LI>
+           <DT>講演者：Gustavo A. R. Silva (The Linux Foundation)</DT>
+           <DT>
+           <DETAILS>
+             <SUMMARY>講演者情報</SUMMARY>
+             <DIV class="speaker-bio">
+               Gustavo A. R. Silva works full-time as an Upstream Linux Kernel Engineer focused
+               on hardening and proactive security. He has spent the past several years fixing
+               all sorts of bugs and hardening the Linux kernel. His work is supported by The
+               Linux Foundation and the Alpha-Omega project. He’s a member of the Linux Kernel
+               Self-Protection Project and a regular speaker at Kernel Recipes and Open Source
+               Summit. He has also presented at Linux Security Summit, Lund LinuxCon, Linux
+               Plumbers Conference, Everything Open, The University of Adelaide, and Symposium
+               sur la Sécurité des Technologies de l'Information et des Communications (SSTIC)
+               as an invited speaker.
+             </DIV>
+           </DETAILS>
+           </DT>
+           <DT>講演タイトル：Enhancing spatial safety: Better array-bounds checking in C (and Linux)</DT>
+           <DT>
+           <DETAILS>
+             <SUMMARY>概要</SUMMARY>
+             <DIV class="abstract">
+               The C language has historically suffered from a lack of proper bounds-checking
+               on all kinds of arrays. The Linux Kernel Self-Protection Project has been
+               addressing this issue for several years. In this presentation, we will learn
+               about the most recent hardening efforts to resolve the problem of bounds-checking,
+               particularly for fixed-size and flexible arrays.
+               We will explore the different mechanisms being used to harden key APIs like
+               memcpy() against buffer overflows, which includes the use of some interesting
+               built-in compiler functions. We will also talk about a couple of recent compiler
+               options like -fstrict-flex-arrays and -Wflex-array-member-not-at-end, as well
+               as the new counted_by attribute released in Clang 18 and GCC 15, which helps us
+               gain run-time bounds-checking coverage on flexible arrays.
+               Overall, we will discuss how various challenges have been overcome, and highlight
+               the innovations developed to solve the problem of array bounds-checking in both C
+               and the Linux kernel once and for all.
+             </DIV>
+           </DETAILS>
+           </DT>
+         </LI>
+         <LI>
+           <DT>講演者：Keita Suzuki (Keio University)</DT>
+           <DT>タイトル：Balancing Analysis Time and Bug Detection: Daily Development-friendly Bug Detection in Linux</DT>
+           <DT>
+           <DETAILS>
+             <SUMMARY>概要</SUMMARY>
+             <DIV class="abstract">
+               Linux, a battle-tested codebase, is known to suffer from many bugs despite its extensive testing mechanisms. While many of these bugs require domain-specific knowledge for detection, a significant portion matches well-known bug patterns. Even though these bugs can be found with existing tools, our simple check of Linux kernel patches suggests that these tools are not used much in the developer's daily workflow. The lack of usage is probably due to the well-known trade-off between analysis time and bug detection capabilities: tools typically employ complex analysis to effectively and comprehensively find bugs in return for a long analysis time, or focus on a short analysis time by only employing elementary analyses and thus can only find a very limited number of bugs. Ideally, developers expect the tools to incur short analysis time, while still finding many bugs to use them in daily development.
+               This paper explores an approach that balances this trade-off by focusing on bugs that can be found with less computationally-complex analysis methods, and limiting the scope to each source code. To achieve this, we propose a combination of computationally lightweight analyses and demonstrate our claim by designing FiTx, a framework for generating daily development-friendly bug checkers that focus on well-known patterns. Despite its simplicity, FiTx successfully identified 47 new bugs in the Linux kernel version 5.15 within 2.5 hours, outperforming Clang Static Analyzer and CppCheck in both speed and bug detection. It demonstrates that focusing on less complex bug patterns can still significantly contribute to the improvement of codebase health. FiTx can be embedded into the daily development routine, enabling early bug detection without sacrificing developers' time.
+             </DIV>
+           </DETAILS>
+           </DT>
+         </LI>
+       </OL>
      </LI>
      <LI>
-       <DT>第10回：システムソフトウェア関連のトピック（具体的な内容は調整中）</DT>
-       <DT>話者：光来 健一（九工大），他調整中</DT>
+       <DT>第11回：ソフトウェアと形式検証</DT>
+       <DT>話者：未定</DT>
+       <DT>日時：2025年9月1日</DT>
+       <DT>開催場所：東京 品川（会場は現在策定中）</DT>
+     </LI>
+     <LI>
+       <DT>第11回：理論関連のトピック（具体的な内容は調整中）</DT>
+       <DT>話者：大堀 淳（ROIS），佐藤 重幸（電気通信大学）</DT>
        <DT>日時：2025年10月ごろ</DT>
        <DT>開催場所：未定</DT>
      </LI>
      <LI>
-       <DT>第11回：ハードウェア関連のトピック（具体的な内容は調整中）</DT>
+       <DT>第12回：ハードウェア関連のトピック（具体的な内容は調整中）</DT>
        <DT>話者：内山 一秀（ROIS），他調整中</DT>
        <DT>日時：2025年12月ごろ</DT>
        <DT>開催場所：未定</DT>
      </LI>
      <LI>
-       <DT>第12回：未定</DT>
+       <DT>第13回：未定</DT>
        <DT>話者：未定</DT>
        <DT>日時：2026年3月ごろ</DT>
        <DT>開催場所：未定</DT>
