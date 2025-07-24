@@ -64,7 +64,7 @@ layout: my_default
     <H3><p style="line-height:0.3">Slack</p></H3>
     <DIV>
       本ワークショップに関するご連絡，講演資料の共有，リモート参加・質疑には Slack を利用します．
-      <A href="https://join.slack.com/t/satss/shared_invite/zt-39t7ge2af-gusWS~jXcL3FlHOkSNNG7A">招待リンク</A>よりご参加ください．
+      <A href="https://join.slack.com/t/satss/shared_invite/zt-39t7ge2af-gusWS~jXcL3FlHOkSNNG7A">こちら</A>の招待リンクからご参加ください．
     </DIV>
 
     <br>
