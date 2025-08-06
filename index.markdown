@@ -43,8 +43,8 @@ layout: my_default
 
     <h3><p style="line-height:0.3">世話人</p></h3>
     <ul style="line-height:1.1">
-      <li>関山 太朗（国立情報学研究所／情報・情報システム研究機構）</li>
-      <li>大畑 幸矢 (情報・情報システム研究機構)</li>
+      <li>関山 太朗（国立情報学研究所／情報・システム研究機構）</li>
+      <li>大畑 幸矢 (情報・システム研究機構)</li>
       <li>畑 輝史（慶應義塾大学）</li>
     </ul>
 
@@ -148,7 +148,7 @@ layout: my_default
        <ol>
          <li>
            <dt>海野 広志（東北大学）</dt>
-           <dt>TBD</dt>
+           <dt>Toward Automated Verification of Low-Level Programs in C and Rust via Fixpoint Logic Solvers</dt>
          </li>
          <li>
            <dt>織田 幸弘（東北大学）</dt>
@@ -167,7 +167,7 @@ layout: my_default
            <dt>差分プライバシーの形式化とf-divergenceの形式化について</dt>
          </li>
          <li>
-           <dt>関山 太朗（国立情報学研究所／情報・情報システム研究機構）</dt>
+           <dt>関山 太朗（国立情報学研究所／情報・システム研究機構）</dt>
            <dt>階層化された計算機システムのセキュリティ検証と課題</dt>
          </li>
          <li>
@@ -191,13 +191,13 @@ layout: my_default
 
      <li>
        <dt>第11回：理論関連のトピック（具体的な内容は調整中）</dt>
-       <dt>話者：大堀 淳（情報・情報システム研究機構），佐藤 重幸（電気通信大学）</dt>
+       <dt>話者：大堀 淳（情報・システム研究機構），佐藤 重幸（電気通信大学）</dt>
        <dt>日時：2025年10月ごろ</dt>
        <dt>開催場所：未定</dt>
      </li>
      <li>
        <dt>第12回：ハードウェア関連のトピック（具体的な内容は調整中）</dt>
-       <dt>話者：内山 一秀（情報・情報システム研究機構），他調整中</dt>
+       <dt>話者：内山 一秀（情報・システム研究機構），他調整中</dt>
        <dt>日時：2025年12月ごろ</dt>
        <dt>開催場所：未定</dt>
      </li>
