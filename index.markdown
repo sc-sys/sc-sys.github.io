@@ -123,6 +123,10 @@ layout: my_default
        <dt>予定講演（講演者氏名順）</dt>
        <ol>
          <li>
+           <dt>石川 裕（大妻女子大学／情報・システム研究機構）</dt>
+           <dt>TriniTEE プロジェクト：ハードウェア・ソフトウェア・理論の連携によるユニバーサル TEE アーキテクチャの実現</dt>
+         </li>
+         <li>
            <dt>海野 広志（東北大学）</dt>
            <dt>Toward Automated Verification of Low-Level Programs in C and Rust via Fixpoint Logic Solvers</dt>
          </li>
@@ -149,6 +153,10 @@ layout: my_default
          <li>
            <dt>冨田 尭（北陸先端科学技術大学院大学）</dt>
            <dt>自動運転システムの体系的形式検証に向けて</dt>
+         </li>
+         <li>
+           <dt>服部 穣（東京大学）</dt>
+           <dt>Automated Detection of Reference Counting Bugs in Linux Kernel Drivers</dt>
          </li>
          <li>
            <dt>西村 啓佑（Inria-Paris ソルボンヌ大学）</dt>
