@@ -10,7 +10,7 @@ layout: my_default
     <dt style="border-bottom: 1px solid black; width: 100%; margin: 20px auto">
       <ul style="line-height:1.1">
         <li>第10回：システムソフトウェアと形式検証 の開催日時，会場，プログラムの詳細を公開しました．詳しくは下記の第10回詳細情報をご覧ください．</li>
-        <li>第10回ワークショップおよび懇親会の参加登録の受付を開始しました．<a href="https://forms.gle/sWyV6EBFUdMzB23E8">こちら</a>の google form よりお申し込みください．</li>
+        <li>第10回ワークショップおよび懇親会の参加登録の受付を開始しました．<a href="https://forms.gle/sWyV6EBFUdMzB23E8">こちら</a>の google form よりお申し込みください．（締切：8月25日）</li>
       </ul>
     </dt>
 
@@ -129,7 +129,7 @@ layout: my_default
        <dt>会場：東京 <a href="https://www.kashikaigishitsu.net/facilitys/gcp-shinagawa-takanawaguchi/access/">TKP ガーデンシティ PREMIUM 品川高輪口 カンファレンスルーム4G</a></dt>
        <br />
 
-       <dt>参加登録：<a href="https://forms.gle/sWyV6EBFUdMzB23E8">こちらの google form</a>よりご登録ください．同 form では懇親会の参加登録も受け付けています．また登録いただいた方に向けに後日リモート参加の方法をお知らせいたします．</dt>
+       <dt>参加登録：<a href="https://forms.gle/sWyV6EBFUdMzB23E8">こちらの google form</a>よりご登録ください．（締切：8月25日）同 form では懇親会の参加登録も受け付けています．また登録いただいた方に向けに後日リモート参加の方法をお知らせいたします．</dt>
        <br />
 
        <dt>プログラム</dt>
