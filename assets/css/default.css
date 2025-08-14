@@ -1,0 +1,16 @@
+ul.workshop-list li {
+    margin: 10px 10px 0 0;
+}
+
+DIV.speaker-bio {
+    font-weight: normal;
+}
+
+DIV.abstract {
+    font-weight: normal;
+}
+
+ul.program li {
+    list-style:none;
+    padding-bottom: 2px
+}

@@ -121,71 +121,71 @@ layout: my_default
        <dt>開催場所：東京 <a href="https://www.kashikaigishitsu.net/facilitys/gcp-shinagawa-takanawaguchi/access/">TKP ガーデンシティ PREMIUM 品川高輪口 カンファレンスルーム4G</a></dt>
        <br />
        <dt>プログラム</dt>
-       <ul>
-         <li style="list-style:none">
+       <ul class="program">
+         <li>
            <dt>9:00-9:05 オープンニング</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>9:05-9:55 冨田 尭（北陸先端科学技術大学院大学） </dt>
            <dt>自動運転システムの体系的形式検証に向けて</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>9:55-10:25 蓮尾 一郎（国立情報学研究所）</dt>
            <dt>形式手法の実世界応用を目指して： モデル不在問題への理論的アプローチ</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>10:25-10:45 休憩</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>10:45-11:00 石川 裕（情報・システム研究機構CRADSEC／大妻女子大学）</dt>
            <dt>TriniTEE プロジェクト：ハードウェア・ソフトウェア・理論の連携によるユニバーサル TEE アーキテクチャの実現</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>11:00-11:20 関山 太朗（国立情報学研究所／情報・システム研究機構CRADSEC）</dt>
            <dt>階層化された計算機システムのセキュリティ検証と課題</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>11:20-11:50 織田 幸弘（東北大学）</dt>
            <dt>セキュリティ束の動的拡張が可能なπ計算の型ベース情報流解析</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>11:50-13:20 昼休憩</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>13:20-14:10 佐藤 重幸（電気通信大学）</dt>
            <dt>検証付きコンパイラ最適化の発展</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>14:10-14:40 西村 啓佑（Inria-Paris ソルボンヌ大学）</dt>
            <dt>Linuxカーネルのスケジューラに対する形式検証の取り組み</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>14:40-15:10 服部 穣（東京大学）</dt>
            <dt>Automated Detection of Reference Counting Bugs in Linux Kernel Drivers</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>15:10-15:30 休憩</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>15:30-16:00 海野 広志（東北大学）</dt>
            <dt>Toward Automated Verification of Low-Level Programs in C and Rust via Fixpoint Logic Solvers</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>16:00-16:30 内藏 理史（早稲田大学）</dt>
            <dt>Ranking and Invariants for Lower-Bound Inference in Quantitative Verification of Probabilistic Programs</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>16:30-16:50 休憩</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>16:50-17:20 佐藤 哲也（東京科学大学）</dt>
            <dt>差分プライバシーの形式化とf-divergenceの形式化について</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>17:20-17:50 Cheng-Hui Weng（名古屋大学）</dt>
            <dt>An Approach to Formalize Information-theoretic Security of Multiparty Computation Protocols Across Cryptographic Paradigms</dt>
          </li>
-         <li style="list-style:none">
+         <li>
            <dt>17:50-18:00 クロージング</dt>
          </li>
        </ul>
