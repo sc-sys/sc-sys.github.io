@@ -53,12 +53,32 @@ layout: my_default
     <H3><p style="line-height:0.3">今後の開催予定</p></H3>
     <UL class="workshop-list" style="line-height:1.1">
      <li>
+       <dt>第11回：理論関連のトピック（具体的な内容は調整中）</dt>
+       <dt>話者：大堀 淳（情報・システム研究機構CRADSEC），佐藤 重幸（電気通信大学）</dt>
+       <dt>日時：2025年10月ごろ</dt>
+       <dt>開催場所：未定</dt>
+     </li>
+     <li>
+       <dt>第12回：ハードウェア関連のトピック（具体的な内容は調整中）</dt>
+       <dt>話者：内山 一秀（情報・システム研究機構CRADSEC），他調整中</dt>
+       <dt>日時：2025年12月ごろ</dt>
+       <dt>開催場所：未定</dt>
+     </li>
+     <li>
+       <dt>第13回：未定</dt>
+       <dt>話者：未定</dt>
+       <dt>日時：2026年3月ごろ</dt>
+       <dt>開催場所：未定</dt>
+     </li>
+    </ul>
+
+    <hr style="height:3px">
+    <H4><p style="padding-bottom:0px">終了したワークショップ</p></H4>
+    <UL class="workshop-list" style="line-height:1.1">
+     <li>
        <dt>第10回：システムソフトウェアと形式検証</dt>
        <dt>日時：2025年9月1日9:00-18:00（開場8:30）</dt>
        <dt>会場：東京 <a href="https://www.kashikaigishitsu.net/facilitys/gcp-shinagawa-takanawaguchi/access/">TKP ガーデンシティ PREMIUM 品川高輪口 カンファレンスルーム4G</a></dt>
-       <br />
-
-       <dt>参加登録：参加を希望される場合は<a href="https://forms.gle/vHzp7y6iY5s6S93L7">こちらの google form</a>よりご登録ください．懇親会の参加登録は締め切りました．</dt>
        <br />
 
        <dt>プログラム</dt>
@@ -127,30 +147,6 @@ layout: my_default
          </li>
        </ul>
      </li>
-
-     <li>
-       <dt>第11回：理論関連のトピック（具体的な内容は調整中）</dt>
-       <dt>話者：大堀 淳（情報・システム研究機構CRADSEC），佐藤 重幸（電気通信大学）</dt>
-       <dt>日時：2025年10月ごろ</dt>
-       <dt>開催場所：未定</dt>
-     </li>
-     <li>
-       <dt>第12回：ハードウェア関連のトピック（具体的な内容は調整中）</dt>
-       <dt>話者：内山 一秀（情報・システム研究機構CRADSEC），他調整中</dt>
-       <dt>日時：2025年12月ごろ</dt>
-       <dt>開催場所：未定</dt>
-     </li>
-     <li>
-       <dt>第13回：未定</dt>
-       <dt>話者：未定</dt>
-       <dt>日時：2026年3月ごろ</dt>
-       <dt>開催場所：未定</dt>
-     </li>
-    </ul>
-
-    <hr style="height:3px">
-    <H4><p style="padding-bottom:0px">終了したワークショップ</p></H4>
-    <UL class="workshop-list" style="line-height:1.1">
      <LI>
        <DT>第9回：セキュアシステムソフトウェア</DT>
        <DT>日時：2025年8月21日15:00〜17:00（開場14:30）</DT>
