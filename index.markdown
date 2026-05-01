@@ -53,6 +53,66 @@ layout: my_default
     <H3><p style="line-height:0.3">今後の開催予定</p></H3>
     <UL class="workshop-list" style="line-height:1.1">
      <li>
+       <dt>第12回：低レベルシステム検証</dt>
+       <dt>話者：<a href="https://binoyravindran.github.io/">Binoy Ravindran</a> (Virginia Tech), Izumi Tanaka (University of Tokyo)</dt>
+       <dt>日時：2026年5月19日16:00-18:30（15:30 開場予定）</dt>
+       <dt>開催場所：<a href="https://www.isct.ac.jp/ja/001/about/campuses-and-offices/ookayama#anchor02">東京科学大学 大岡山キャンパス 西8号館E棟 E1001号室</a></dt>
+       <dt>アクセス方法
+         <ul>
+           <li>西8号館入る(キャンパスマップ西地区21番)</li>
+           <li>入り口入って10m程まっすぐ進む(入り口から突き当たりまで進むとW棟のエレベータホールに着いてしまうので注意)</li>
+           <li>左手のE棟エレベータホールから10階へ</li>
+           <li>10階廊下出てすぐ右手</li>
+         </ul>
+       </dt>
+       <dt>参加登録：<a href="https://forms.gle/qfFzituVQRyzyCe5A">Google form</a> より受付（親会登録締切：5月17日）</dt>
+       <br />
+
+       <dt>プログラム</dt>
+       <ul class="program">
+         <li>
+           <dt style="line-height:1.5">16:00-17:00 Binoy Ravindran (Virginia Tech)</dt>
+           <dt style="line-height:1.5">講演タイトル：A Step Toward Trustworthy Binary Verification</dt>
+           <details>
+             <SUMMARY>概要</SUMMARY>
+             <DIV class="abstract">
+               Many production legacy software systems are available only in binary form. This is due toseveral reasons including intellectual property and proprietary issues, outdated build processesand environments, and third-party libraries and tools that are no longer available or backwardscompatible. Security vulnerability analysis of such software is still a necessary task due to theneed to rapidly patch program errors, especially those that can be used to create securityexploits, i.e., unintended, or malicious behaviors or leak sensitive data. A large body of workhas focused on this problem space including disassembly, decompilation, and binaryverification, among others. A common denominator of these approaches is binary lifting: rawunstructured data is lifted to a form for reasoning over behavior and semantics. Majority ofexisting binary lifting approaches are untrustworthy (e.g., misses jump targets, misidentifiescode as data), which negatively affects the trust base of techniques that rely on them.In this talk, I will present an approach for trustworthy binary liHing. The techniquesimultaneously disassembles, recovers control flow, and verifies a class of security properKesincluding return address integrity, bounded control flow, and calling convenKon adherence.Establishing these properKes allows the binary to be liHed to a representaKon that contains anover-approximaKon of all possible execuKon paths of the binary. The liHed representaKoncontains proof obligaKons that are sufficient to formally prove (e.g., using a theorem-prover)the security properKes and correctness of the liHed representaKon, which removes the liHingalgorithm and its implementaKon from the trust base. We apply this approach to LinuxFoundaKon’s Xen Hypervisor covering about 400K instrucKons, providing evidence of itseffecKveness and scalability for trustworthy binary liHing of off-the-shelf producKon soHware. Iwill argue that such a binary liHing technique not only improves the trust base of downstreamtechniques (e.g., binary verificaKon) but also exposes novel ways for reasoning about relatedproblems (e.g., binary patching).
+             </DIV>
+           </details>
+           <details>
+            <SUMMARY>講演者プロフィール</SUMMARY>
+            <DIV>
+              Binoy Ravindran (binoyravindran.github.io) is a Professor of Electrical and Computer Engineering and Bradley Senior Faculty Fellow at Virginia Tech, where he leads the Systems SoHware Research Group (ssrg.ece.vt.edu). He joined Virginia Tech in 1998, aHer receiving his PhD in Computer Science from the University of Texas at Arlington that same year. His research interests are in computer systems, with a focus on security, performance, energy efficiency, and Kming properKes. Together with his students, postdocs, research faculty members, and collaborators, Prof. Ravindran has published more than 340 papers, which have been honored with nine best paper awards or nominaKons. He has mentored 11 research assistant professors, 25 postdoctoral scholars, and 26 PhD students, 18 of whom are tenured or tenure-track faculty members at universiKes including Edinburgh, Houston, Illinois-Chicago, Lehigh, Manchester, Penn State, and Twente. Sponsors of his research include US Department of Defense agencies (DARPA, ONR, IARPA, AFOSR, NAVSEA, NSWCDD), US NaKonal Science FoundaKon, NASA, and The MITRE CorporaKon. Prof. Ravindran is a two-Kme recipient of Virginia Tech Engineering Dean’s Award of Excellence in Research (2020 and 2026), an ACM DisKnguished ScienKst, IEEE CS DisKnguished Contributor, ACM DisKnguished Speaker, IEEE DisKnguished Visitor, and an US Office of Naval Research Faculty Fellow at the US Naval Surface Warfare Center Dahlgren Division. He is (or was) an Associate Editor of journals including ACM TransacKons on Embedded CompuKng Systems, IEEE TransacKons on Cloud CompuKng, IEEE TransacKons on Sustainable CompuKng, IEEE TransacKons on Parallel and Distributed Systems, IEEE TransacKons on Computers, and IEEE Design &amp; Test.
+            </DIV>
+           </details>
+         </li>
+         <li>
+           <dt>17:00-17:30 休憩</dt>
+         </li>
+         <li>
+           <dt style="line-height:1.5">16:00-17:00 Binoy Ravindran (Virginia Tech)</dt>
+           <dt style="line-height:1.5">講演タイトル：Relational Hoare Logic for High-Level Synthesis of Hardware Accelerators</dt>
+           <details>
+             <SUMMARY>概要</SUMMARY>
+             <DIV class="abstract">
+               High-level synthesis (HLS) is a powerful tool for developing efficient hardware accelerators that rely on specialized memory systems to achieve sufficient on-chip data reuse and off-chip bandwidth utilization. However, even with HLS, designing such systems still requires careful manual tuning, as automatic optimizations provided by existing tools are highly sensitive to programming style and often lack transparency. To address these issues, we present a formal translation framework based on relational Hoare logic, which enables robust and transparent transformations. Our method recognizes complex memory access patterns in naïve HLS programs and automatically transforms them by inserting on-chip buffers to enforce linear access to off-chip memory, and by replacing non-sequential processing with stream processing, while preserving program semantics. Experiments using our prototype translator, combined with an off-the-shelf HLS compiler and a real FPGA board, have demonstrated significant performance improvements.
+             </DIV>
+           </details>
+         </li>
+       </ul>
+     </li>
+     <li>
+       <dt>第13回：ハードウェア関連のトピック（具体的な内容は調整中）</dt>
+       <dt>話者：内山 一秀（情報・システム研究機構CRADSEC），他調整中</dt>
+       <dt>日時：2026年6-7月ごろ</dt>
+       <dt>開催場所：未定</dt>
+     </li>
+    </UL>
+
+    <hr style="height:3px">
+    <H4><p style="padding-bottom:0px">終了したワークショップ</p></H4>
+    <UL class="workshop-list" style="line-height:1.1">
+     <li>
        <dt>第11回：理論関連のトピック（具体的な内容は調整中）</dt>
        <dt>話者：大堀 淳（情報・システム研究機構CRADSEC），佐藤 重幸（電気通信大学）</dt>
        <dt>日時：2025年11月19日13:30-17:00（13:20開場予定）</dt>
@@ -95,25 +155,6 @@ layout: my_default
          <li>
            <dt style="line-height:1.5">16:50-17:00 クロージング</dt>
          </li>
-       </ul>
-     </li>
-     <li>
-       <dt>第12回：ハードウェア関連のトピック（具体的な内容は調整中）</dt>
-       <dt>話者：内山 一秀（情報・システム研究機構CRADSEC），他調整中</dt>
-       <dt>日時：2025年12月ごろ</dt>
-       <dt>開催場所：未定</dt>
-     </li>
-     <li>
-       <dt>第13回：未定</dt>
-       <dt>話者：未定</dt>
-       <dt>日時：2026年3月ごろ</dt>
-       <dt>開催場所：未定</dt>
-     </li>
-    </ul>
-
-    <hr style="height:3px">
-    <H4><p style="padding-bottom:0px">終了したワークショップ</p></H4>
-    <UL class="workshop-list" style="line-height:1.1">
      <li>
        <dt>第10回：システムソフトウェアと形式検証</dt>
        <dt>日時：2025年9月1日9:00-18:00（開場8:30）</dt>
