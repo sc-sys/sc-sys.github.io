@@ -53,7 +53,7 @@ layout: my_default
     <H3><p style="line-height:0.3">今後の開催予定</p></H3>
     <UL class="workshop-list" style="line-height:1.1">
      <li>
-       <dt>第13回：TEE ハードウェア</dt>
+       <dt>第13回：セキュアコンピュテーションのためのTEE ハードウェア</dt>
        <dt>話者：内山 一秀（情報・システム研究機構CRADSEC），松見 湧斗（情報・システム研究機構CRADSEC）</dt>
        <dt>日時：2026年11月25日16:00-18:00（15:30開場予定）</dt>
        <dt>開催場所：一橋講堂特別会議室101ー103</dt>
